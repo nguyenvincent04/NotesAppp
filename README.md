@@ -36,6 +36,7 @@ This app serves as the **Final Project** for the course.
 
 ## Features
 
+- Account Login/Logout (Firebase)
 - Create new notes  
 - Edit existing notes  
 - Delete notes  
